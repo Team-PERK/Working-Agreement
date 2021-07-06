@@ -1,7 +1,5 @@
 Working Agreement
 
-• Where should this document be stored? Github? Elsewhere?
-
 • Designated core working hours
 • Central Time (8:30am – 4:30pm)
 
